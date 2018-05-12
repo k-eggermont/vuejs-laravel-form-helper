@@ -2,4 +2,5 @@
 Little helper for Laravel validation and VueJS
 
 
-@todo : make it auto installed with NPM
+@todo - make it auto installed with NPM
+@todo - add some comments
